@@ -1,0 +1,10 @@
+{
+  "name": "5.1",
+  "version": "1.0.0",
+  "scripts":{
+    "test" : "mocha *.test.js"
+  },
+  "devDependencies": {
+    "mocha": "^3.2.0"
+  }
+}
